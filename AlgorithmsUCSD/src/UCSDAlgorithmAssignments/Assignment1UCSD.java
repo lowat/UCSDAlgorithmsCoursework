@@ -1,6 +1,7 @@
 package UCSDAlgorithmAssignments;
 import java.util.Scanner;
 
+//test comment
 public class Assignment1UCSD {
 	
 	 static int sumOfTwoDigits(int first_digit, int second_digit) {
